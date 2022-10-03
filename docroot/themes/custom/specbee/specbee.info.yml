@@ -1,0 +1,9 @@
+name: Specbee
+type: theme
+description: 'Specbee'
+package: Other
+core_version_requirement: ^8.8 || ^9 || ^10
+libraries:
+  - specbee/global-styling
+
+base theme: olivero

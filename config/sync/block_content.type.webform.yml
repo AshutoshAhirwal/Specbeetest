@@ -1,0 +1,10 @@
+uuid: 4366b0d4-5425-479b-ae43-4ecc645d8c8e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: cVM2d-3wNn60dx0jiVWfdU4_zXtZmfN-3QAmz6Kn6qY
+id: webform
+label: Webform
+revision: 0
+description: 'Add a Webform as a block on a page.'

@@ -1,0 +1,13 @@
+uuid: 7b79dcb9-151a-430b-9149-74ba9f4f0864
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: zPbheZVwXXMJfMyrhyaVxl41WnxUU2VrKARwqomujm4
+id: cta_button
+block_id: 'inline_block:cta_button'
+category: component
+label: 'CTA Button'
+weight: -100
+image_path: /profiles/contrib/storm/modules/storm_layout_builder/assets/cta.png
+image_alt: 'CTA Icon'

@@ -1,0 +1,20 @@
+uuid: db264cb4-40be-44ec-b984-8eb666681de1
+langcode: en
+status: true
+dependencies:
+  theme:
+    - specbee
+_core:
+  default_config_hash: 6aOgWsNTXjqrDm98TXSAjP6qd2nCijD1xw45MrnbK-Y
+id: specbee_page_title
+theme: specbee
+region: sidebar_first
+weight: -5
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility: {  }

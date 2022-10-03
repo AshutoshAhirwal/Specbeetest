@@ -1,0 +1,10 @@
+uuid: 59794e69-e2d9-410b-b2bf-dae0d8b86256
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 5htfdQ6HofyaxF3xYk3G02OmnTcioV4BjKdKPzFdVj8
+id: cta_button
+label: 'CTA Button'
+revision: 0
+description: 'Provides a <em>CTA Button</em> to directs your visitors to do something specific'

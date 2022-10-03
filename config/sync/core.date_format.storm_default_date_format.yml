@@ -1,0 +1,10 @@
+uuid: 3862cae1-5f1a-4ba4-83ea-df037de2d0ce
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: mOstok7EeEv9NoFf_AWZJ5snXYiTMNSjIEvVnwbFfz8
+id: storm_default_date_format
+label: 'Storm default date format'
+locked: false
+pattern: 'd F, Y'

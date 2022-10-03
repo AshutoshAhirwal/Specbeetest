@@ -1,0 +1,10 @@
+uuid: 78dfd53a-9c41-4c48-89df-9c5e6a460679
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8LI2BeUmPxiywtCKanhEg35jQ9C7f16cVsUXp0wkIdE
+id: media
+label: Media
+revision: 0
+description: 'Use <em>Media</em> to create a component with Image and Video media entities'

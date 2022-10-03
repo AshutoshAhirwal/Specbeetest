@@ -1,0 +1,10 @@
+uuid: d8d3db81-ec82-49db-8b9e-422beb5d7d1a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: koxrqEj2moUn_SQeFgqgQUcu7VfcphEAbSusz2M38T4
+id: storm_long_date
+label: 'Storm long date'
+locked: false
+pattern: 'l, d F, Y h:i A'

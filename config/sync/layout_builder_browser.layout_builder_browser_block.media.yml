@@ -1,0 +1,13 @@
+uuid: 16ba3fa3-9ecd-43b4-a85f-084c16b273f6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 3Kgf0Sv_x3gJzTXheWRoGwTmfvXWwXrxkaML7BZG34M
+id: media
+block_id: 'inline_block:media'
+category: component
+label: Media
+weight: -1
+image_path: /profiles/contrib/storm/modules/storm_layout_builder/assets/media.png
+image_alt: 'Media icon'

@@ -1,0 +1,10 @@
+uuid: 0eaf31c9-a73c-4cdc-b651-13dc9275c3e0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: DOYnNklgKZ31Zr0HCU8wpi-9xOdV8QBKjusgClVoHF8
+name: 'Tags - Media'
+vid: tags_media
+description: 'Use tags to group Media items on similar topics into categories.'
+weight: 0

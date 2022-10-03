@@ -1,0 +1,31 @@
+uuid: 39b8d1e2-e6d5-4611-a0dd-fe159093112f
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.block_reference
+    - field.storage.block_content.field_block_reference
+  module:
+    - block_field
+_core:
+  default_config_hash: et7BUJHyPAZMWIp8tpyXNw4mbsbbrRlIU-KK5m0H8EY
+id: block_content.block_reference.field_block_reference
+field_name: field_block_reference
+entity_type: block_content
+bundle: block_reference
+label: Block
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  selection: blocks
+  selection_settings:
+    plugin_ids:
+      'entity_view:node': 'entity_view:node'
+      'entity_view:taxonomy_term': 'entity_view:taxonomy_term'
+      'entity_view:user': 'entity_view:user'
+      user_login_block: user_login_block
+      system_powered_by_block: system_powered_by_block
+field_type: block_field

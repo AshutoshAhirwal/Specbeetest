@@ -1,0 +1,21 @@
+uuid: 5dbd0097-abb2-4c00-95bc-32517341eb15
+langcode: en
+status: true
+dependencies:
+  module:
+    - block_content
+    - entity_reference_display
+_core:
+  default_config_hash: yRKLl3CvAkRvdAnStag91r5nWR1YunW0AlNQNattaus
+id: block_content.field_display_mode
+field_name: field_display_mode
+entity_type: block_content
+type: entity_reference_display
+settings: {  }
+module: entity_reference_display
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

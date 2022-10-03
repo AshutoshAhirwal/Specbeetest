@@ -1,0 +1,90 @@
+.node__content{
+  background-color: #fff;
+}
+.block.block--card {
+	display: flex;
+  align-items: center;
+}
+.block--card .block__content{
+  width: 50%;
+}
+.block--card .block__media{
+  width: 50%;
+}
+.block__title {
+  font-size: 21px;
+  line-height: 1.3;
+  font-weight: 700;
+  color: blue;
+  margin: 0;
+}
+.block__body {
+  font-size: 11px;
+  line-height: 18px;
+  margin: 5px 0 0;
+}
+.block--card.left {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-start;
+}
+.block--card.left {
+  padding-top: 20px;
+}
+.block--card.right {
+  padding-bottom: 20px;
+}
+.button{
+  color: #000;
+  border-color: #000;
+  margin-bottom: 0;
+}
+.block.block--card.left .block__content{
+  padding-left: 30px;
+}
+.block.block--card.right .block__content{
+  padding-right: 30px;
+}
+
+@media screen and (max-width: 1200px) {
+  .block__title {
+    font-size: 15px;
+    line-height: 1.1;
+  }
+  .block__body {
+    font-size: 12px;
+  }
+  .block--card .button{
+    margin: 10px 0;
+    padding: 10px;
+    height: auto;
+  }
+}
+@media screen and (max-width: 560px){
+  .block--card .block__content{
+    width: 100%;
+  }
+  .block--card .block__media{
+    width: 100%;
+  }
+  .block.block--card {
+    display: block;
+  }
+  .block.block--card.left .block__content{
+    padding-left: 0;
+  }
+  .block.block--card.right .block__content{
+    padding-right: 0;
+  }
+  .block__title{
+    font-size: 25px;
+  }
+  .block__body {
+    font-size: 20px;
+    line-height: 1.5;
+  }
+  .block--card .button {
+    margin: 20px 0;
+    padding: 8px;
+  }
+}

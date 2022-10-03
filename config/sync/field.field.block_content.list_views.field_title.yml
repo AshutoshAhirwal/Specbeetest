@@ -1,0 +1,21 @@
+uuid: b68c8e3c-f4db-4dc2-95ba-9aee0d49697f
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.list_views
+    - field.storage.block_content.field_title
+_core:
+  default_config_hash: MCmmqmvet5weuP7Nm1cOj8KtpZSYBZXVPl5JZo2NCDo
+id: block_content.list_views.field_title
+field_name: field_title
+entity_type: block_content
+bundle: list_views
+label: Title
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

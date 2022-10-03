@@ -1,0 +1,9 @@
+uuid: 7b163e67-f330-486b-93a8-2b2b35cb2bf9
+langcode: en
+status: false
+dependencies: {  }
+_core:
+  default_config_hash: 2iz3cMg7T1eSKXtNIB9WyaRptfg7wosDDPBSBhXFXl0
+formId: user_register_form
+captchaType: default
+label: user_register_form

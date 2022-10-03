@@ -1,0 +1,10 @@
+uuid: e2b561f1-ac7e-457b-b38d-cf4a155eb608
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HCo7pXkSALPKr5eC50aATCZwIbnlSI3O4h15ujomcqk
+id: text
+label: Text
+revision: 0
+description: 'A basic text block with a title, body and a link field.'

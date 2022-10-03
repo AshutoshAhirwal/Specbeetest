@@ -1,0 +1,13 @@
+uuid: 0233ae57-d006-4b84-804d-9987caddbea2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ib4_sP2PU6wgYGTsUvPW0iX_2v22a4AdUOo65IXi17E
+id: list_views
+block_id: 'inline_block:list_views'
+category: component
+label: 'List - Views'
+weight: 1
+image_path: /profiles/contrib/storm/modules/storm_layout_builder/assets/views.png
+image_alt: 'View reference icon'

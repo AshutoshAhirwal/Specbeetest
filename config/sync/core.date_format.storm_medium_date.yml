@@ -1,0 +1,10 @@
+uuid: 462c5d38-3466-4fd9-bd0f-905b9b21fbbf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ERmYtvclbPg9OatkBgp--QM7SeC5rq0Y44gTDR5zG1s
+id: storm_medium_date
+label: 'Storm medium date'
+locked: false
+pattern: 'd M, Y h:i A'
