@@ -19,13 +19,13 @@ This will scafold the Drupal repository and intialized Git in the directory with
 
 Next step is to configure the project settings at `robo.yml`. Refer the file to make changes to the file as per the project requirements.
 
-Once, done run `composer init-repo` which will:
+Once, done run `composer init:project` which will:
 
 - Setup Drush aliases
 - Configure the Landofile
 - Configure Grumphp for checking commits
 
-To create a local.settings.php run `composer setup-local`
+To create a local.settings.php run `composer setup:local`
 
 Run `lando start` to spin up the containers used to run the application.
 
