@@ -1,4 +1,4 @@
-uuid: 98e56f92-371a-49ec-95f6-5035c679879b
+uuid: f396e5ef-8eb0-4f6d-9af3-373f78e5f1a1
 langcode: en
 status: true
 dependencies:
@@ -38,10 +38,10 @@ content:
     region: content
   field_image_alignment:
     type: list_default
-    label: hidden
+    label: above
     settings: {  }
     third_party_settings: {  }
-    weight: 5
+    weight: 4
     region: content
   field_link:
     type: link
