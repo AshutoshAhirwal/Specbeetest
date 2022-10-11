@@ -2,3 +2,13 @@ global-styling:
   css:
     theme:
       assets/css/style.css: {}
+
+button-style:
+  css:
+    theme:
+      assets/css/button.css: {}
+
+block-card:
+  css:
+    theme:
+      assets/css/card.css: {}
