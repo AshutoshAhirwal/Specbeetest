@@ -26,14 +26,6 @@
     padding-left: 0;
   }
 }
-.block--card.left .block__content .block__title {
-  font-size: 21px;
-  line-height: 1.3;
-  font-weight: 700;
-  color: blue;
-  margin: 0;
-  text-transform: uppercase;
-}
 .block--card.right {
   padding-bottom: 20px;
 }
