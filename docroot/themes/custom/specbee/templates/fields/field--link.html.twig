@@ -1,5 +1,5 @@
-{{ attach_library('specbee/button-style') }}
 {% for item in items %}
+    {{ attach_library('specbee/button-style') }}
     <div{{ item.attributes.addClass('field__item') }}>
         <a class="button" href="{{item.content['#url']}}">{{item.content['#title']}}</a>
     </div>

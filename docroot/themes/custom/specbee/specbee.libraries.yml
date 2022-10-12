@@ -1,14 +1,16 @@
 global-styling:
   css:
     theme:
-      assets/css/style.css: {}
+      style/css/main.css: {}
 
 button-style:
   css:
     theme:
-      assets/css/button.css: {}
+      style/css/component/button.css: {}
 
 block-card:
   css:
-    theme:
-      assets/css/card.css: {}
+    component:
+      style/css/component/card.css: {}
+
+# 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
